@@ -1,5 +1,5 @@
 # Air, Land, and Sea for Raspberry Pi Pico
-# Example using PIO to drive a set of WS2812 LEDs.
+# Using PIO to drive a set of WS2812 LEDs.
 
 import array, time, random
 from machine import Pin
