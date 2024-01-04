@@ -1,10 +1,10 @@
 Python code for raspberry pi pico to moderate air land and sea with colored lights
 
-White = Air
-
-Green = Land
-
-Blue = Sea
+Guide
+-----
+* White = Air
+* Green = Land
+* Blue = Sea
 
 Requirements
 ------------
