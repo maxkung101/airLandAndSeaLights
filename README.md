@@ -17,3 +17,7 @@ Download source code
 ```
 $ gh repo clone maxkung101/airLandAndSeaLights
 ```
+
+Video
+-----
+[https://youtu.be/ot7x-Qbttbc](https://youtu.be/ot7x-Qbttbc)
