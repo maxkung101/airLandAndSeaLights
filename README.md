@@ -17,6 +17,6 @@ $ gh repo clone maxkung101/airLandAndSeaLights
 * White = Air
 * Green = Land
 * Blue = Sea
-* 
+
 ### Video
 [https://youtu.be/ot7x-Qbttbc](https://youtu.be/ot7x-Qbttbc)
