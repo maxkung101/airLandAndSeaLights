@@ -13,7 +13,7 @@ $ gh repo clone maxkung101/airLandAndSeaLights
 ```
 
 ## Guide and Demonstration
-## Instructions
+### Instructions
 * White = Air
 * Green = Land
 * Blue = Sea
