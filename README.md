@@ -21,5 +21,6 @@ $ gh repo clone maxkung101/airLandAndSeaLights
 ### Video
 [https://youtu.be/ot7x-Qbttbc](https://youtu.be/ot7x-Qbttbc)
 
-## Credits
+## About
+### Credits
 Programmed by Max Kung
