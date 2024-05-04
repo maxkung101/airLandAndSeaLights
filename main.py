@@ -1,9 +1,8 @@
 # Air, Land, and Sea for Raspberry Pi Pico
 # Using PIO to drive a set of WS2812 LEDs.
 
-import array, time, random
+import array, time, random, rp2
 from machine import Pin
-import rp2
 
 # Configure the number of WS2812 LEDs.
 NUM_LEDS = 16 
