@@ -51,12 +51,14 @@ def pixels_fill(color):
     for i in range(len(ar)):
         pixels_set(i, color)
 
+# Set up colors
 BLACK = (0, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 WHITE = (255, 255, 255)
 COLORS = (GREEN, BLUE, WHITE)
 
+# Run
 while True:
     pixels_fill(BLACK)
     pixels_show()
