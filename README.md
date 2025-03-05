@@ -1,5 +1,5 @@
 # Air Land Sea Lights
-Python code for raspberry pi pico to moderate air land and sea with colored lights
+Software for raspberry pi pico to moderate air land and sea with colored lights
 
 ## Setup and Installation
 ### Requirements
