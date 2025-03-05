@@ -1,16 +1,13 @@
 # Air Land Sea Lights
 Software for raspberry pi pico to moderate air land and sea with colored lights
 
-## Setup and Installation
-### Requirements
+## Requirements
 * 1 x 16 RGB WS2812 Light Ring
 * 3 M to M Jumper wires
 * 1 Breadboard
 
-### Download source code
-```
-$ gh repo clone maxkung101/airLandAndSeaLights
-```
+## Installation
+Download and install Air Land Sea Lights from [the Releases page](https://github.com/maxkung101/airLandAndSeaLights/releases).
 
 ## Guide and Demonstration
 ### Key
