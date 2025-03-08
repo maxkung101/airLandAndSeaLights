@@ -16,7 +16,7 @@ Download and install Air Land Sea Lights from [the Releases page](https://github
 * Blue = Sea
 
 ### Video
-[https://youtu.be/ot7x-Qbttbc](https://youtu.be/ot7x-Qbttbc)
+<iframe width="560" height="315" src="https://youtu.be/ot7x-Qbttbc" frameborder="0" allowfullscreen></iframe>
 
 ## About
 ### Credits
